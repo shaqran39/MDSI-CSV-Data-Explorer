@@ -2,10 +2,10 @@
 
 ## Authors
 Group 22: 
+- Shaqran Saleh (25010238)
 - Md Tanzim Hossain (24692790)
 - Ezilaan Irraivan (24695379)
 - Jaime Garcia Y Garcia (13863992)
-- Shaqran Saleh (25010238)
 
 ## Description
 <What your application does>
